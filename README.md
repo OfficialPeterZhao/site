@@ -1,21 +1,22 @@
-# React + TypeScript + Vite
+# Personal Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is my personal website, designed to showcase my projects, skills, and professional experience. It serves as an online portfolio and a way to connect with potential employers, collaborators, and like-minded individuals.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+## Features
+- **About Me:** A brief introduction and background.
+- **Projects:** A showcase of selected projects with descriptions and links.
+- **Resume:** Downloadable resume for job applications.
+- **Blog (if applicable):** Technical articles, insights, or personal posts.
+- **Contact:** Links to LinkedIn, GitHub, and email for networking.
 
-## Deploy Your Own
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript (or React, Next.js, Vue)
+- **Backend (if applicable):** Node.js, Express, Flask, or Django
+- **Hosting:** GitHub Pages, Vercel, Netlify, or self-hosted
+- **Styling:** Tailwind CSS, Bootstrap, or custom CSS
 
-Deploy your own Vite project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
-
-_Live Example: https://vite-react-example.vercel.app_
-
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
+## Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/personal-website.git
