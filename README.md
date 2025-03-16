@@ -7,8 +7,7 @@ This is my personal website, designed to showcase my projects, skills, and profe
 - **About Me:** A brief introduction and background.
 - **Projects:** A showcase of selected projects with descriptions and links.
 - **Resume:** Downloadable resume for job applications.
-- **Blog (if applicable):** Technical articles, insights, or personal posts.
-- **Contact:** Links to LinkedIn, GitHub, and email for networking.
+- **Contact:** Links to LinkedIn, GitHub, and email.
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript 
