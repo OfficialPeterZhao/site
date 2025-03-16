@@ -11,9 +11,9 @@ This is my personal website, designed to showcase my projects, skills, and profe
 - **Contact:** Links to LinkedIn, GitHub, and email for networking.
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React, Next.js, Vue)
-- **Backend (if applicable):** Node.js, Express, Flask, or Django
-- **Hosting:** GitHub Pages, Vercel, Netlify, or self-hosted
+- **Frontend:** HTML, CSS, JavaScript 
+- **Backend:** Node.js, Express, Flask, or Django
+- **Hosting:** Vercel
 - **Styling:** Tailwind CSS, Bootstrap, or custom CSS
 
 ## Installation & Usage
